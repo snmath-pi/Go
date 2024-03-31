@@ -63,6 +63,12 @@ func newTest(s senderX) {
 	fmt.Println("Rate limit is: ", s.ratelimit)
 	fmt.Println("===============")
 }
+
+type authenticationInfo struct {
+	username string
+	password string
+}
+
 func main() {
 	fmt.Println("Hello")
 
