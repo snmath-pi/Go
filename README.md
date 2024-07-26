@@ -1,1 +1,1 @@
-Golang and C# for game developement
+Golang API's and .Net/C# for SoftWare Development
